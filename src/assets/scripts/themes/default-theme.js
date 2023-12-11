@@ -59,6 +59,7 @@ export default {
 
     // 引用样式
     blockquote: {
+      "text-align": `justify`,
       "font-style": `normal`,
       "border-left": `none`,
       padding: `1em`,
@@ -69,6 +70,7 @@ export default {
     },
 
     blockquote_p: {
+      "text-align": `justify`,
       "letter-spacing": `0.1em`,
       color: `rgb(80, 80, 80)`,
       "font-size": `1em`,
